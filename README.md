@@ -1,9 +1,9 @@
 ## Solution - 
 There are 8 files in this folder with comment "Course Project". The 4 files mentioned below are to generate the plots.
-1. Plot1.R - Generates Plot1.png
-2. Plot2.R - Generates Plot2.png
-3. Plot3.R - Generates Plot3.png
-4. Plot4.R - Generates Plot4.png
+. Plot1.R - Generates Plot1.png
+. Plot2.R - Generates Plot2.png
+. Plot3.R - Generates Plot3.png
+. Plot4.R - Generates Plot4.png
 
 Original question is given below.
 
